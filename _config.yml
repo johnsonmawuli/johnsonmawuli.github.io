@@ -1,6 +1,6 @@
 # Site settings
 title: Johnsonmawuli
-description: what to know about me
+description: blog
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -9,9 +9,9 @@ username: Johnson Mawuli Tsimese
 user_description: This page contains everything you need to know about me. Thanks for your time tho! 
 user_title: Analyst; Blogger
 email: tsimesejohnson@gmail.com
-tiktok_username: mawuliix
-github_username:  johnsonmawuli
 instagram_username: mawulijt
+github_username:  johnsonmawuli
+
 
 # Google-analytics
 google-analytics:
